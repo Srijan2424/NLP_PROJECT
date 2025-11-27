@@ -184,16 +184,4 @@ Once both backend and frontend are running, open the browser at `http://localhos
 - ✅ Documentation and PPT/report prepared for academic evaluation
 - 🔜 Planned: ML upgrade, dataset benchmarking, publication
 
----
 
-## License
-
-Add your chosen license here (e.g. MIT, Apache 2.0) if you plan to open‑source the project.
-
----
-
-## Authors
-
-- Your Name – Backend, NLP, Architecture
-- Your Name – Frontend, UI/UX
-- Supervisor / Guide (if applicable)
